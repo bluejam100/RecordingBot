@@ -3,6 +3,7 @@ A bot that joins a voice channel to record messages
 
 1. To start recording a message, the user needs to join a voice channel and type the command /record
 2. To stop the recording, the user to type /stop
+3. Use /help to see more information on user profiles and to playback recordings
 
 
 ### What I have learned
