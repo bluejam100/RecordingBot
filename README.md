@@ -1,4 +1,4 @@
-# RecordingBot-
+# RecordingBot
 A bot that joins a voice channel to record messages
 
 1. To start recording a message, the user needs to join a voice channel and type the command /record
